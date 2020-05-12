@@ -1,0 +1,3 @@
+rootProject.name = 'dawa'
+
+include 'dawa-consumer','dawa-plugin'
